@@ -1,7 +1,7 @@
-package controller;
+package md.tekwill.todo.controller;
 
-import model.Task;
-import service.TaskService;
+import md.tekwill.todo.model.Task;
+import md.tekwill.todo.service.TaskService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

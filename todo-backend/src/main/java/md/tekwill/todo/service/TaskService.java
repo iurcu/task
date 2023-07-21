@@ -1,7 +1,7 @@
-package service;
+package md.tekwill.todo.service;
 
-import model.Task;
-import repository.TaskRepository;
+import md.tekwill.todo.model.Task;
+import md.tekwill.todo.repository.TaskRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
